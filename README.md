@@ -24,6 +24,9 @@ Link tienda: http://www.clothesdo.cf/
 
  
  ![image](https://user-images.githubusercontent.com/49033368/103502877-a9d28c00-4e20-11eb-8b29-cd6e55f661fd.png)
+ 
+ ![image](https://user-images.githubusercontent.com/49033368/103503147-6a586f80-4e21-11eb-98ac-175bb4169b4a.png)
+
 
 Se pide desarrollar una tienda virtual usando WordPress para montar un emprendimiento de un negocio local usando tecnología web. La tienda virtual debe presentar información sobre:
  
